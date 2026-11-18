@@ -1,0 +1,78 @@
+internal/httpapi/oidc_app_test.go
+  s_2277b574a7347a::t_bf46e511f966e5 1-181
+  s_2277b574a7347a::t_b8b47a4b757da6 182
+mobile/android/app/src/main/java/app/opentodo/SystemSignIn.kt
+  s_2277b574a7347a::t_a1f891f67fcae7 1-118
+changelog.d/Fixed/app-sso-system-browser.md
+  s_2277b574a7347a::t_cf6a965f15ec2a 1
+docs/android-app.md
+  s_2277b574a7347a::t_24797e372572c7 79,83
+docs/api.md
+  s_2277b574a7347a::t_121554f91edd12 134,149,503-512,516,523,2684
+docs/ios-app.md
+  s_2277b574a7347a::t_02d9453271af12 33,35
+docs/openapi.json
+  s_2277b574a7347a::t_902b59abd3eec1 2924-2972,9812,9821-9823
+docs/self-hosting/sso.md
+  s_2277b574a7347a::t_cf28b4e5d23a93 121-123
+internal/httpapi/auth_handlers.go
+  s_2277b574a7347a::t_f21a869931c3e6 20-24
+internal/httpapi/health_test.go
+  s_2277b574a7347a::t_c3b3ba777e554b 26
+internal/httpapi/oidc.go
+  s_2277b574a7347a::t_06e2e6c42d28f0 12,29-39,43,126-130,132-133,135,139-141,173-179,183,199-212,215-219,225-231,285,289-356,359
+internal/httpapi/openapi_examples_test.go
+  s_2277b574a7347a::t_063d9453ebc54b 260-263
+internal/httpapi/route_matrix_public_test.go
+  s_2277b574a7347a::t_756f58a0597c25 126
+internal/httpapi/testdata/v1_surface.json
+  s_2277b574a7347a::t_2f9fbd8e994f9e 2028,4784,8263-8269
+internal/oidc/handoff.go
+  s_2277b574a7347a::t_adb3fb4bed894c 1-80
+internal/oidc/handoff_test.go
+  s_2277b574a7347a::t_af23fa3935dd2f 1-47
+internal/oidc/service.go
+  s_2277b574a7347a::t_aa5450b0a3fee2 115,137,143-145
+internal/oidc/state.go
+  s_2277b574a7347a::t_f07110da01559c 43-47
+mobile/android/app/src/main/AndroidManifest.xml
+  s_2277b574a7347a::t_7db6da3fa88ef0 58-66
+mobile/android/app/src/main/java/app/opentodo/MainActivity.kt
+  s_2277b574a7347a::t_c5d96f7edcf460 71-73,124-125,176-180,286-287,296-332,395-399,452,761
+mobile/android/app/src/test/java/app/opentodo/SystemSignInTest.kt
+  s_2277b574a7347a::t_0b4aa5c991c46b 1-53
+mobile/ios/OpenTodo/ShellView.swift
+  s_2277b574a7347a::t_7b6da287716de5 1,43-46,265-318,332-340
+mobile/ios/OpenTodo/SignInFlow.swift
+  s_2277b574a7347a::t_267b0ab6b63a6c 1,102-213
+mobile/ios/OpenTodoTests/ShellTests.swift
+  s_2277b574a7347a::t_c7be23dba8cfb9 493-538
+openspec/changes/app-sso-system-browser/.openspec.yaml
+  s_2277b574a7347a::t_55e3673bdf3ffa 1-2
+openspec/changes/app-sso-system-browser/design.md
+  s_2277b574a7347a::t_dde28c2f6e1dcb 1-38
+openspec/changes/app-sso-system-browser/proposal.md
+  s_2277b574a7347a::t_04bf1a29a5b8d8 1-36
+openspec/changes/app-sso-system-browser/specs/native-shells/spec.md
+  s_2277b574a7347a::t_0b1d1584aa2f68 1-69
+openspec/changes/app-sso-system-browser/specs/oidc-login/spec.md
+  s_2277b574a7347a::t_ecd4bf05257a14 1-32
+openspec/changes/app-sso-system-browser/tasks.md
+  s_2277b574a7347a::t_2a9d8d20a69734 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bdfcccc28d22e47ee2b2954ada4bf2ce3358853d",
+  "prompts": {},
+  "sessions": {
+    "s_2277b574a7347a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "73bef318-7143-4740-88d6-f69a69a5da80",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ricardo Sat <rsat89@gmail.com>"
+    }
+  }
+}
